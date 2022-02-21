@@ -1,16 +1,15 @@
-### Hi there 👋
+# Heyyo, I'm SirH
 
-<!--
-**OfficialSirH/OfficialSirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- proficient in [TypeScript](https://www.typescriptlang.org/)
 
-Here are some ideas to get you started:
+- amateur at [Rust](https://www.rust-lang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- love for backend development
+
+- Maintainer of 2 open-source projects for the beloved indie idle game, [Cell to Singularity](https://celltosingularity.com/)
+  - [Semblance](https://github.com/OfficialSirH/Semblance-bot)
+  - [C2S Discord Link](https://github.com/OfficialSirH/C2S-Discord-Link)
+
+# Stats
+
+[![SirH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSirH&theme=tokyonight)](https://github.com/OfficialSirH/github-readme-stats)
