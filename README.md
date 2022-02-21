@@ -12,4 +12,5 @@
 
 # Stats
 
-[![SirH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSirH&theme=tokyonight)](https://github.com/OfficialSirH/github-readme-stats)
+[![SirH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSirH&theme=tokyonight&count_private=true)](https://github.com/OfficialSirH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialSirH&theme=tokyonight&count_private=true&layout=compact)](https://github.com/OfficialSirH/github-readme-stats)
