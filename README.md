@@ -1,8 +1,6 @@
 # Heyyo, I'm SirH
 
-- proficient in [TypeScript](https://www.typescriptlang.org/)
-
-- amateur at [Rust](https://www.rust-lang.org/)
+- proficient in [TypeScript](https://www.typescriptlang.org/) & [Rust](https://www.rust-lang.org/)
 
 - love for backend development
 
