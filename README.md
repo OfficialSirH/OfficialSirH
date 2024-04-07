@@ -4,9 +4,8 @@
 
 - love for backend development
 
-- Maintainer of 2 open-source projects for the beloved indie idle game, [Cell to Singularity](https://celltosingularity.com/)
+- Maintainer of an open-source project for the beloved idle game, [Cell to Singularity](https://celltosingularity.com/)
   - [Semblance](https://github.com/OfficialSirH/Semblance-bot)
-  - [C2S Discord Link](https://github.com/OfficialSirH/C2S-Discord-Link)
 
 # Stats
 
